@@ -58,6 +58,12 @@ export const categories = [
         price: "40.000đ",
         image: "https://cbu01.alicdn.com/img/ibank/12443187330_53215101.jpg",
       },
+      {
+        id: "A048",
+        name: "Túi đựng khăn giấy hình thỏ",
+        price: "100.000đ",
+        image: "https://cbu01.alicdn.com/img/ibank/O1CN01YbRmRW1SQQZ5iO99t_!!2217532202241-0-cib.jpg",
+      },
     ],
   },
   {
