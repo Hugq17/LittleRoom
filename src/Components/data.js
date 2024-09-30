@@ -9,6 +9,7 @@ export const categories = [
         price: "34.000đ",
         image:
           "https://firebasestorage.googleapis.com/v0/b/imagelittleroom.appspot.com/o/A07%2FO1CN010FLgZB1T4GuF2XKXN_!!2213738392328-0-cib.jpg?alt=media&token=007f779f-aaaa-4367-bf74-a9123099f7c1",
+         
       },
       {
         id: "A06",
@@ -59,11 +60,29 @@ export const categories = [
         image: "https://cbu01.alicdn.com/img/ibank/12443187330_53215101.jpg",
       },
       {
-        id: "A048",
+        id: "A049",
         name: "Túi đựng khăn giấy hình thỏ",
         price: "100.000đ",
         image: "https://cbu01.alicdn.com/img/ibank/O1CN01YbRmRW1SQQZ5iO99t_!!2217532202241-0-cib.jpg",
+        colors: [
+          {
+            hex: "#F5F5F5",
+            image:
+              "https://cbu01.alicdn.com/img/ibank/O1CN01eyfDNT1dLLwr542bv_!!2216976093719-0-cib.jpg",
+          },
+          {
+            hex: "#A0522D",
+            image:
+              "https://cbu01.alicdn.com/img/ibank/O1CN01eyfDNT1dLLwr542bv_!!2216976093719-0-cib.jpg",
+          },
+          {
+            hex: "#000000",
+            image:
+              "https://cbu01.alicdn.com/img/ibank/O1CN01qXLkyU1dLLwl9BrUB_!!2216976093719-0-cib.jpg",
+          },
+        ],
       },
+      
     ],
   },
   {
